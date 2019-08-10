@@ -1,3 +1,4 @@
+@@ -0,0 +1,51 @@
 @import url(menu.css);
 @import url(banner.css);
 @import url(blog.css);
@@ -25,7 +26,7 @@ header{
     height: 50px;
     background: #333;
     color: #fff;
-    
+
     position: fixed;
     top: 0;
     left: 0;
@@ -48,4 +49,4 @@ header .contenedor{
 section{
     width: 100%;
     margin-bottom:25px; 
-}
+} 

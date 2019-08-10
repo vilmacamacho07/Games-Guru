@@ -1,2 +1,10 @@
-.conte1{height:400px;background-color:#6495ED;font-family: 'Righteous', cursive;}
-.conte2{height:400px;background-color:#483D8B;font-family: 'Righteous', cursive;}
+.conte1{height:600px;background-color:#6495ED;font-family: 'Righteous', cursive;}
+.conte2{height:600px;background-color:#483D8B;font-family: 'Righteous', cursive;}
+.titu1{padding-left:100px;padding-top:100px;font-size:50px}
+.titu2{padding-left:200px;font-size:30px}
+.titu3{font-size:40px;padding-top:30px;text-align:center;padding-bottom:30px;}
+.cat{width:250px;height:60px;background-color:#2A8AC4;font-size:40px
+	;text-align:center;border-radius:20px;border-width:3px;border-style:outset;color:#A200FF}
+
+.bibli{margin-left:750px;height:60px;background-color:#2A8AC4;font-size:40px
+	;text-align:center;border-radius:20px;border-width:3px;border-style:outset;}
